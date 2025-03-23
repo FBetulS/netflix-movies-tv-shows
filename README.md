@@ -3,6 +3,9 @@
 ## 📖 Proje Açıklaması
 Bu proje, Netflix'in film ve TV şovlarına dair kapsamlı bir analiz yapmayı amaçlamaktadır. Kullanıcıların içeriklerle etkileşimlerini artırmak, içeriklerin popülaritesini anlamak ve öneri sistemleri geliştirmek için çeşitli görselleştirmeler ve veri analizi teknikleri kullanılmaktadır. Proje, veri kümesindeki içeriklerin türleri, yıllara göre dağılımları, yönetmen ve oyuncu ilişkileri gibi önemli bilgileri ortaya koymayı hedefler.
 
+⚠️ Not
+3D grafiklerim ve görselleştirmelerim maalesef gözükmüyor. Bu durum, bazı tarayıcı veya platform uyumsuzluklarından kaynaklanabilir.
+
 ## 🔗 Veri Kümesi
 Veri kümesi, [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows/data) adresinden alınmıştır. Bu veri kümesi, Netflix'in platformundaki içeriklerin detaylarını içermektedir.
 
