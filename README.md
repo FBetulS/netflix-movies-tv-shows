@@ -37,9 +37,4 @@ Ayrıca, projenin etkileşimli bir versiyonu [Netflix Analysis - Hugging Face Sp
    - Coğrafi dağılım haritası.
 
 3. **İçerik Öneri Sistemi**:
-   - TF-IDF ile içerik açıklamalarından benzerlik hesaplanarak öneri sistemi geliştirilir.
-
-## 📝 Örnek Kullanım
-İçerik öneri sistemi aşağıdaki gibi kullanılabilir:
-```python
-netflix_recommender("Stranger Things")
+   - TF-IDF ile içerik açıklamalarından benzerlik hesaplanarak öneri sistemi geliştirilir. 
